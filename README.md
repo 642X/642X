@@ -4,10 +4,6 @@
 </p>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=18&pause=4999&width=435&lines=Working+on+Bipedal+Robot+Motion+Control)](https://git.io/typing-svg)
-
-- Self-balancing Exoskeletons
-- Humanoid Robots
-
 ### Languages and Tools：
 <img align="center" src="https://skillicons.dev/icons?i={bun,c,cpp,cmake,py,docker,git,linux,matlab,ros,html}&theme=light" />
 
